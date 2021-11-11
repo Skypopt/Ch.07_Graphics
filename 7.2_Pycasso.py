@@ -14,6 +14,7 @@ Then add a comment at the top telling the reader what you are drawing.
 IN THE WINDOW TITLE PLEASE PUT YOUR NAME.
 When you are finished Pull Request your file to your instructor.
 '''
+#DRAWING OF CROSSY ROAD GAME
 import arcade
 arcade.open_window(600, 600, "Landen Thompson")
 arcade.set_background_color((0, 255, 0))
